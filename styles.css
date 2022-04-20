@@ -10,8 +10,7 @@ body {
 }
 
 #ball {
-    height: 800px;
-    width: 800px;
+    width: 40vw;
 }
 
 a {
@@ -49,8 +48,7 @@ p {
     }
 
     #ball {
-        height: 600px;
-        width: 600px;
+        width: 40vw;
     }
 }
 
@@ -61,8 +59,7 @@ p {
     }
 
     #ball {
-        height: 500px;
-        width: 500px;
+        width: 40vw;
     }
 }
 
@@ -73,7 +70,6 @@ p {
     }
 
     #ball {
-        height: 300px;
-        width: 300px;
+        width: 40vw;
     }
 }
